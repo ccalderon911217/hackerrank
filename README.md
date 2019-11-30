@@ -1,2 +1,2 @@
 # hackerrank
-hackerrank challenges in Java-8
+hackerrank challenges
